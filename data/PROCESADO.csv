@@ -1,0 +1,984 @@
+,title,max_salary,min_salary,applies,views
+35,Lead Software Engineer,190000.0,160000.0,1.0,10.0
+69,Teradata Developer,,,13.0,56.0
+82,Software Engineer,,,67.0,158.0
+118,Senior Business Intelligence Developer,150.0,100.0,41.0,155.0
+128,"Staff Perception Software Engineer, CV/ML",,,9.0,69.0
+185,Seasonal Payroll/Data Entry Clerk,,,55.0,325.0
+266,Data Engineer,,,55.0,101.0
+292,Data Scientist/ Product Analyst ,80.0,70.0,7.0,37.0
+307,Software Engineer- Graphics Designer,,,4.0,21.0
+313,Data Analytics Consultant,,,7.0,26.0
+356,Datacenter Technician,50.0,15.0,10.0,34.0
+368,Developer Internship [unpaid],,,50.0,154.0
+370,iOS Developer,,,20.0,48.0
+396,Azure Data Engineer,,,311.0,534.0
+421,RPA Developer ,,,,199.0
+433,Power Apps Developer,,,36.0,166.0
+440,Senior Data Engineer,145000.0,90000.0,25.0,86.0
+479,Oracle Developer,,,22.0,98.0
+492,Senior Oracle HCM Data & Technology Consultant,,,45.0,116.0
+505,Full Stack developer,,,53.0,160.0
+522,Sr Java Developer,,,290.0,455.0
+523,Senior Data Engineer,145000.0,90000.0,21.0,86.0
+524,Full Stack .NET Developer,,,45.0,116.0
+539,Data Architect – Enterprise Architecture Team-REMOTE,189735.0,125580.0,32.0,291.0
+545,Data Analyst,38.0,35.0,,148.0
+548,Oracle Database Administrator,70.0,55.0,,129.0
+557,Solution Architect- Data Engineering Any Cloud must have Databricks,160000.0,140000.0,67.0,181.0
+564,SAP Master Data Consultants,,,,43.0
+575,Software Engineer in Test,,,,81.0
+581,Sr. Java Developers,,,,116.0
+582,Senior Java Fullstack developer,,,,67.0
+587,C++ /Chromium Developer,,,18.0,36.0
+593,iOS Developer,,,,50.0
+601,  React JS + Java Full stack Developer,,,,215.0
+608,Frontend React developer(10+ years),,,,44.0
+609,Data Analyst,24.0,20.0,,99.0
+613,C++ Software Engineer,55.0,42.0,27.0,132.0
+616,PL/SQL Developer,65.0,53.0,,56.0
+627,Anaplan Lead Developer,,,4.0,61.0
+646,Java Developer (Only W2),,,51.0,182.0
+647,Data analyst II,,,49.0,114.0
+665,.Net Developer,,,,108.0
+670,Full Stack Developer (Java and Angular),,,34.0,64.0
+718,Sr. Java Developer [10+ Years],,,14.0,26.0
+728,Java Software Engineer,,,,104.0
+737,iOS Developer,,,128.0,447.0
+740,SiteCore Developer,,,,43.0
+741,Business Data Analyst,85.0,80.0,206.0,974.0
+750,CONTRACT TO HIRE - Power Application Developer,,,4.0,25.0
+754,Data Architect,,,,30.0
+757,Financial Services Data Entry,20.0,17.0,3.0,64.0
+759,Splunk Developer,,,,29.0
+762,Lead Java Developer,,,,20.0
+802,Software Engineer [72302],75.0,65.0,66.0,226.0
+808,"Software Engineering Manager (C, AIX)",225000.0,150000.0,12.0,71.0
+817,Project Manager (Data Center Move) ,82.5,75.0,,337.0
+848,Head of Data Science,,,43.0,133.0
+857,Lead Superintendent - Data Center/Mission Critical,160000.0,140000.0,7.0,29.0
+866,Senior Android Developer,,,,21.0
+885,Embedded Software Architect,,,8.0,51.0
+886,Data Scientist,,,141.0,347.0
+900,Java Software Engineer,,,,221.0
+903,front end react developer,,,,140.0
+921,Data Governance Specialist,85.0,80.0,80.0,311.0
+938,SFDC Data Architect,,,,17.0
+948,Postgres Database Developer,80.0,70.0,72.0,184.0
+953,DataStage Engineer ,,,87.0,273.0
+979,Senior Data Analyst,,,,19.0
+980,AEM Developer,,,,39.0
+987,Denodo Developer,,,14.0,50.0
+1010,Senior Data Engineer,145000.0,90000.0,26.0,92.0
+1014,Full Stack .NET Developer ,65.0,50.0,199.0,451.0
+1028,Data Engineer/SQL Developer,,,,150.0
+1034,Senior Full Stack Developer- Founding Engineer,200000.0,180000.0,78.0,214.0
+1038,"W2-Senior Salesforce Software Engineer, Salesforce declarative and Programmatic Customization",,,,73.0
+1044,Software Analyst,34.0,25.0,25.0,104.0
+1046,Business Intelligence Developer,,,41.0,85.0
+1048,Data Engineer(Must be local to GA),,,,126.0
+1059,Project Manager - GIS & Data,,,17.0,61.0
+1065,Backend Java Developer,,,,15.0
+1073,Data Steward,,,9.0,33.0
+1096,Data Analyst,35.0,30.0,,350.0
+1101,Senior Data Architect,,,15.0,74.0
+1108,Volunteer Mobile Developer,,,13.0,155.0
+1111,Azure Data Engineer,,,,80.0
+1117,Data Scientist – (Remote),,,577.0,1334.0
+1126,RPG Developer,,,10.0,80.0
+1132,java developer W2,,,29.0,115.0
+1137,"Contractor-Laboratory Capabilities, Clinical Data Management (Consultant)",,,27.0,174.0
+1149,Database Developer,140000.0,115000.0,77.0,199.0
+1168,"Senior Software Engineer, .NET Full Stack",175000.0,165000.0,105.0,366.0
+1207,SQL Developer || Hybrid(Across USA) || W2 only,,,,58.0
+1218,Software Engineering Manager,,,68.0,225.0
+1219,Data Analyst,,,53.0,193.0
+1236,Senior Data Engineer,145000.0,90000.0,22.0,99.0
+1241,Senior Data Engineer,145000.0,90000.0,27.0,116.0
+1251,Big Data Developer,100000.0,100000.0,64.0,209.0
+1260,Business Developer,45000.0,40000.0,69.0,255.0
+1270,C# Visual Studio Developer,140000.0,120000.0,35.0,92.0
+1282,Power Platform Engineer with Dataverse,,,,16.0
+1303,IAM Developer,,,,56.0
+1312,Software Supervisor,,,12.0,62.0
+1317,Data Scientists / AIML Engineer,,,116.0,333.0
+1327,AEM Developer,,,,44.0
+1350,"Marketing Sciences, Data Scientist",,,170.0,525.0
+1358,Power BI Developer,60.0,55.0,205.0,729.0
+1360,Microsoft Power BI Developer,,,,114.0
+1363,Oracle Database Administrator,,,,34.0
+1370,Sr. Mobile Developer,,,49.0,204.0
+1400,"Sr. Front End Developer - React (C# / .NET/REACTJS/Azure Cloud Exp with Point of Sale (POS)), Sr. Developer - JPOS",,,50.0,166.0
+1422,IT Data Warehouse Analyst,130000.0,120000.0,75.0,182.0
+1446,"Manager, Oracle Data Conversion Lead",140000.0,110000.0,11.0,78.0
+1457,Sr. Software Development Lead - Full Stack/.Net - (Remote 23-33),,,47.0,229.0
+1467,Java financial application developer,,,,163.0
+1477,Data Analytics Manager,150000.0,150000.0,67.0,196.0
+1480,Lead Data Scientist,254000.0,188000.0,318.0,956.0
+1482,Senior Java Developer,,,,48.0
+1496,Technical Data Manager - clinical trails ,95000.0,80000.0,,84.0
+1505,WalkMe Builder/Developer,,,21.0,78.0
+1516,Groovy Developer,,,14.0,122.0
+1521,Work Brain Developer,,,2.0,24.0
+1531,Software Quality Assurance Engineer,75.0,75.0,,86.0
+1543,Test Data management,,,,42.0
+1545,Python Developer,,,51.0,147.0
+1549,Teradata Developer,,,,45.0
+1582,Software Consultant,,,21.0,94.0
+1586,IAM Developer,,,,49.0
+1590,GCP Data Architect/Lead,,,,27.0
+1595,Product Developer,77746.0,64800.0,258.0,812.0
+1599,SOFTWARE ENGINEER- JPOS,,,,285.0
+1628,"ETL Developer (Python, Pentaho, AWS)",,,181.0,420.0
+1639,"Data Governance Lead in Health Care (Only Local to MD, VA & DC States)",150000.0,135000.0,,23.0
+1660,SAP/Master Data Specialist,,,8.0,63.0
+1678,Senior JDE Developer,,,11.0,82.0
+1680,Android Developer,,,,154.0
+1682,Data Management Lead,,,5.0,91.0
+1689,Data Steward,75.0,65.0,,80.0
+1702,AbInitio Developer-W2 Contract,,,,52.0
+1705,Hiring for Informatica Data Quality Developer || 100% Remote,,,,131.0
+1707,Senior Java Developer,,,,123.0
+1720,Software Developer (Azure / .NET),,,254.0,634.0
+1721,Power BI Developer,,,79.0,154.0
+1722,Enterprise Data Architect,,,,72.0
+1743,Full Stack Developer,67.0,65.0,328.0,803.0
+1751,Data Modeler,,,13.0,48.0
+1767,Mobile Application Developer,,,35.0,165.0
+1770,Junior Software Engineer,,,1615.0,3657.0
+1784,Data Analytics Manager - Strategic Sourcing,150000.0,130000.0,22.0,93.0
+1808,.Net Backend Developer,,,,110.0
+1809,Azure data architect,,,,40.0
+1818,Data Engineer,68.0,58.0,255.0,568.0
+1820,GCP Data Lead,,,,26.0
+1836,Data Analyst,,,500.0,724.0
+1871,Senior Data Engineer,,,,40.0
+1892,SQL Developer,,,27.0,72.0
+1915,"Data Science, Senior Director",,,35.0,108.0
+1919,Senior Backend Developer (Java),75.0,60.0,,337.0
+1925,Oracle Developer,,,37.0,86.0
+1930,Java developer,,,,316.0
+1940,"Data Project Manager (PMP, GIS, Cloud, Data Management)",,,,50.0
+1943,Software Engineer,,,,19.0
+1990,Software Engineer,90000.0,80000.0,,479.0
+2004,Java Full Stack Developer,,,,61.0
+2007,Software Test Engineer,,,51.0,116.0
+2008,Business Analyst/ Tableau Developer,,,36.0,94.0
+2028,java full stack developer,,,20.0,57.0
+2074,Staff Software Engineer,,,,50.0
+2095,Data Analyst,70.0,70.0,100.0,271.0
+2099,Denodo Developer,,,,50.0
+2111,Data Analyst,,,49.0,129.0
+2125,Power BI Data Analyst – (Remote),,,742.0,1459.0
+2137,Global Data Insights Analyst (Only W2),,,144.0,411.0
+2202,Azure Databricks Architect with hands on Data Lakehouse or Delta Lakehouse implementation and Unity Catalog and Airflow,,,,74.0
+2207,Anaplan Lead Developer,,,3.0,44.0
+2213,GCP Data Lead/Architect,,,,56.0
+2215,Senior Data Engineer,,,,84.0
+2227,senior java developer,,,,46.0
+2228,Full Stack Developer – Top Secret Clearance - South Carolina,,,53.0,142.0
+2230,AWS Data Engineer ,,,,378.0
+2232,Salesforce Developer,130000.0,120000.0,75.0,207.0
+2249,Senior Director of Software Engineering - People APIs and Experiences (People Technology),,,44.0,147.0
+2258,.NET Developer with Angular,,,,107.0
+2265,Enterprise Data Management Admin,,,1.0,25.0
+2272,Salesforce Solutions Architect (Vlocity/Omnistudio Developer),,,,91.0
+2295,Full Stack Angular Developer (W2 Only),,,26.0,87.0
+2297,Peoplesoft Senior Financials Functional Developer,,,10.0,65.0
+2299,Embedded Software Engineer,,,,80.0
+2318,Python Developer,,,161.0,356.0
+2330,Data Center Technician,,,,43.0
+2342,Network Data Admin,,,,27.0
+2366,PHP/Vue.js Developers – Remote; W2 Contract!,57.0,50.0,125.0,454.0
+2375,Data Scientist,,,54.0,215.0
+2407,Power BI Developer,54.0,48.0,168.0,287.0
+2443,BI Developer ( Oracle) ,,,,187.0
+2444,nCino Sr. Developer,,,6.0,51.0
+2447,DHT - Front-End Software Engineer,160000.0,160000.0,100.0,192.0
+2452,Direct Client -.Net Developer - Las Vegas ( Onsite ),,,62.0,208.0
+2472,Senior Clinical Data Coordinator,,,,33.0
+2477,.Net Developer/Angular Developer,,,,119.0
+2492,Mid-Level Java Backend Developer,,,52.0,103.0
+2501,Data Scientist,,,56.0,104.0
+2505,Peoplesoft Senior Financials Technical Developer,,,14.0,79.0
+2507,.NET Developer,,,,133.0
+2512,Oncology Data Abstractor,45.0,35.0,41.0,235.0
+2525,Data Engineer,,,403.0,612.0
+2539,Sr .NET Fullstack Developer,,,278.0,534.0
+2547,Mobile Application Developer,,,16.0,41.0
+2554,Application Software Engineering V,,,10.0,40.0
+2555,Sr. Mobile Application Developer,,,14.0,105.0
+2562,Software Engineer,,,55.0,178.0
+2574,AEM Developer ,,,,247.0
+2583,Data Governance Program Lead,,,26.0,86.0
+2605,Jr. AWS Developer,,,75.0,157.0
+2624,Mid-Level Java Developer(3-4 years),,,,52.0
+2627,Java and Python Developer,,,,154.0
+2650,Sr. Angular/Dot Net Developer,,,79.0,276.0
+2655,Software Engineer,,,72.0,261.0
+2699,Career Coach + Communications and Data Manager,,,16.0,88.0
+2700,Conga with Salesforce Developer,,,,73.0
+2703,IT Data Analytics Analyst,,,128.0,308.0
+2706,Salesforce Developer,,,47.0,142.0
+2721,Net Developer/Angular Developer,,,,119.0
+2724,Salesforce Developer,,,82.0,237.0
+2725,Text Data Labeling Analyst - Machine Learning (Hybrid Role 1 Day a week Onsite) ,,,72.0,195.0
+2749,Peoplesoft Developer,,,5.0,127.0
+2767,Sr. Software Engineer,130000.0,100000.0,42.0,139.0
+2771,Data architect/Data analyst,,,31.0,56.0
+2781,Software Engineering Sr Manager/Director/Senior Director,305600.0,188200.0,67.0,273.0
+2782,W2-Enterprise Integration Developer with strong Oracle integration Cloud ,,,,40.0
+2786,Pega Developer,,,39.0,185.0
+2787,GCP Data lead/Architect ,,,16.0,59.0
+2795,Staff Software Engineer,,,10.0,179.0
+2812,Data Analytics Engineer,,,252.0,508.0
+2816,Oracle EBS HCM Application Developer,,,25.0,108.0
+2817,Big Data Developer- W2 Contract Only,100000.0,60000.0,,101.0
+2823,UX/UI Designer - Data Intelligence ,55.0,55.0,154.0,386.0
+2834,Senior Director of Software Engineering - People APIs and Experiences (People Technology),,,104.0,354.0
+2838,"Senior Backend Software Engineer, Data",,,74.0,496.0
+2844,Senior Data Engineer,130000.0,130000.0,,132.0
+2889,Software Engineer,,,68.0,225.0
+2894,Senior Director of Software Engineering - People APIs and Experiences (People Technology),,,71.0,295.0
+2895,Python Developer,,,,68.0
+2896,SharePoint and Power Platform Developer,,,,74.0
+2899,Oracle Database Developer,75.0,65.0,53.0,188.0
+2924,Java Full Stack Developer,,,,104.0
+2927,Senior Software Engineer,145000.0,116000.0,182.0,571.0
+2951,"Senior Data Analyst, Forecasting",,,,186.0
+2957,Mainframe Developer_w2 role,,,,53.0
+2982,Microsoft Dynamics 365  CE Developer,,,14.0,77.0
+2985,Software Engineer Dev Ops,,,14.0,203.0
+3001,Senior .NET Backend Developer,150000.0,125000.0,56.0,138.0
+3051,Software Engineer Dev Ops,,,29.0,311.0
+3056,Sr Data Engineer,141440.0,120640.0,135.0,289.0
+3064,Senior Lead Java Software Engineer,,,16.0,84.0
+3084,Senior Java Software Engineer,,,30.0,31.0
+3088,Java Script Developer,,,,137.0
+3103,Axiom Developer,,,10.0,45.0
+3108,Associate Data Analyst - Analytics and Insights,,,,256.0
+3148,Frontend ReactJS Developer(only 10+ years),,,,59.0
+3159,MDM Data Architect,,,5.0,13.0
+3181,Application Developer,110000.0,100000.0,29.0,101.0
+3201,Principal Software Engineer,,,,25.0
+3202,Dotnet Developer,,,16.0,24.0
+3235,Software Engineer,,,51.0,158.0
+3236,Software Engineer II - Native Mobile Android,,,17.0,49.0
+3251,Senior Azure Database Engineer,135000.0,120000.0,105.0,283.0
+3278,Software Bill of Materials Engineer,59.0,55.0,26.0,206.0
+3298,Account Developer,62500.0,50000.0,3.0,19.0
+3327,Associate Cyber Data Engineer,,,28.0,177.0
+3328,Staff Embedded Software QA Engineer,175125.0,85000.0,8.0,70.0
+3349,Senior Dotnet Developer,,,15.0,28.0
+3359,"Senior Software Engineer, Operations Microsoft .Net (ASP.NET, C#, JavaScript, XML)",130400.0,80000.0,2.0,43.0
+3373,Sr. Mobile Application Developer,,,,67.0
+3378,Java Developer,,,,2.0
+3384,Salesforce Developer,,,,115.0
+3404,.Net Developer/Angular Developer,,,21.0,30.0
+3431,Associate Cyber Data Engineer,,,34.0,153.0
+3442,DATA ENGINEER with SQL SSIS SSRS,,,,42.0
+3458,ETL Axiom Developer,,,11.0,25.0
+3465,Java Software Engineer,,,,55.0
+3482,Java Developer,,,177.0,496.0
+3491,Dotnet Developer,65.0,60.0,212.0,334.0
+3495,Sr. Software (Firmware) Engineer,,,5.0,11.0
+3498,"Manager, Data and Reporting",130.0,105.0,43.0,458.0
+3506,Software Engineer,,,94.0,224.0
+3512,Python Developer,,,32.0,55.0
+3513,Senior .net Developer,,,,102.0
+3520,Data Network Engineering Manager,,,4.0,26.0
+3537,"Software Development Engineer II, IT Product and Development",,,,127.0
+3548,Dotnet Developer,130000.0,110000.0,64.0,137.0
+3604,Software Engineering Analyst II,119400.0,95000.0,8.0,32.0
+3615,Entry Level Data Analyst,,,,167.0
+3626,Database Administrator,100000.0,90000.0,,36.0
+3636,Software Controls & Automation Engineer,,,25.0,123.0
+3710,Data Analytics Specialist,50.0,50.0,96.0,237.0
+3712,Software Engineer,,,53.0,345.0
+3726,Software Engineer I,,,204.0,602.0
+3735,Sr Database Design Analyst ,74.0,65.0,102.0,148.0
+3742,Senior Dotnet Developer,,,,108.0
+3761,Software Engineer I - Remote,143400.0,77200.0,193.0,678.0
+3771,Senior Data Engineer (Scala/Spark),,,42.0,232.0
+3780,Software Tester,,,,134.0
+3782,Application Software Engineer,,,39.0,117.0
+3790,Senior Software Engineer,,,16.0,63.0
+3827,Software Developer,,,132.0,559.0
+3841,Sap Advanced Business Application Programming Developer,,,18.0,60.0
+3854,Senior Data Analyst,,,159.0,216.0
+3857,Technical Project Manager - Data Integration,,,30.0,75.0
+3875,Principal Data Engineer,195000.0,170000.0,123.0,271.0
+3889,Java Full Stack Lead Developer,,,41.0,30.0
+3912,"Software Development Engineer II, IT Product and Development, IT Product and Development",,,,112.0
+3936,SAP Data Lead,,,,39.0
+3939,Data Entry Processing/Customer Service Representative,19.0,19.0,11.0,61.0
+3953,Software Engineer,,,18.0,50.0
+3955,Data Entry Assistant,20.8,20.8,,158.0
+3959,Senior Software Developer,,,54.0,220.0
+3995,Master Data Specialist- W2 only ,66.0,60.0,6.0,49.0
+4015,"Senior Software Engineer, Oncology",265000.0,180000.0,17.0,89.0
+4021,Data Analyst,,,152.0,307.0
+4023,Dotnet Developer,,,29.0,61.0
+4069,Data Governance Manager/Architect,,,,43.0
+4077,Datacenter Analyst,30.0,28.0,54.0,15.0
+4083,"Underwriting Technician - Data Entry, Medical/Insurance",60000.0,50000.0,5.0,29.0
+4089,Datacenter Technician,55000.0,50000.0,13.0,40.0
+4126,Oracle Database Administrator,,,,29.0
+4127,Software Engineer II - Remote,182000.0,98000.0,82.0,299.0
+4130,Principal Enterprise Architect - Data Platforms,,,11.0,89.0
+4135,PHP Full Stack Web Developer,,,30.0,43.0
+4138,Software Quality Engineer,,,84.0,194.0
+4142,"Software Development Engineer II, IT Product and Development",,,,91.0
+4156,Mobile Application Developer,,,62.0,168.0
+4174,Power BI Developer,,,,28.0
+4177,British Data Collector in United States,,,1.0,26.0
+4179,Master Data Specialist,70.0,65.0,8.0,59.0
+4193,Data Engineer,55.0,45.0,48.0,68.0
+4210,Azure Data engineer,,,31.0,54.0
+4215,Senior Software Engineer - Android,204600.0,84500.0,3.0,24.0
+4219,Sr. Tableau Developer,150000.0,100000.0,,59.0
+4223,"Software Engineer, Pharmacy Fulfillment",,,23.0,255.0
+4262,Infrastructure Engineer IV / Sr Software Engineer,,,94.0,284.0
+4267,Senior Data Analyst,130000.0,105000.0,86.0,462.0
+4275,Microstrategy Developer position ,55.0,50.0,25.0,144.0
+4280,ETL Developer,,,,164.0
+4285,Java Full Stack developer,,,,38.0
+4311,Product Designer / Developer,,,13.0,60.0
+4315,Senior Data Engineer,170000.0,160000.0,169.0,323.0
+4325,British Data Collector in United States,,,5.0,34.0
+4334,Database Analyst,128200.0,85440.0,7.0,82.0
+4345,Java Software Engineer,,,,90.0
+4357,Web Application Developer,,,25.0,64.0
+4360,Sr Software Engineer,125000.0,115000.0,42.0,108.0
+4363,SQL Developer,,,32.0,57.0
+4364,ETL Developer,68.0,55.0,98.0,234.0
+4368,British Data Collector in United States,,,,16.0
+4383,Senior Firmware Engineer /Senior Software Engineer,,,13.0,30.0
+4384,Construction Data Center Project Manager,,,27.0,105.0
+4386,Principal Data Architect,185000.0,155000.0,,26.0
+4387,Senior Embedded Software Engineer,175000.0,150000.0,20.0,52.0
+4400,Associate Product Developer,72000.0,70000.0,18.0,93.0
+4406,Sr/Lead Embedded Software Engineer,130000.0,110000.0,18.0,59.0
+4414,Senior ETL Developer,70.0,60.0,44.0,134.0
+4442,"Sr. Developer, System Applications",,,1.0,5.0
+4463,Master Data Steward,,,,13.0
+4485,Senior Data Scientist,,,11.0,84.0
+4532,Dotnet Developer,,,57.0,99.0
+4632,"Software Engineering Intern - Summer 2024 - Seattle, WA",,,200.0,466.0
+4653,"Deputy Chief Product Group, Software Engineer, UI/UX &amp; Agile",173373.0,108638.0,2.0,23.0
+4664,Data Scientist,,,26.0,143.0
+4680,Software Engineer,,,85.0,194.0
+4698,Senior Data Scientist,,,15.0,80.0
+4700,Database Administration Specialist 2,113173.0,76000.0,1.0,9.0
+4724,Senior Software Engineer,,,22.0,102.0
+4746,Job Developer Specialist,,,,
+4748,Associate Software Engineer,,,20.0,99.0
+4760,Data Scientist- AD Tech,,,16.0,65.0
+4773,Java Full Stack Developer,145600.0,135200.0,109.0,220.0
+4774,Jr. Database Admin | Hedge Fund $170B AUM | Hybrid | Boston,140000.0,110000.0,4.0,26.0
+4785,FULL STACK DOT NET DEVELOPER,,,42.0,101.0
+4798,Data Project Manager,,,56.0,178.0
+4811,"Principal Software Engineer (DB tuning, DB schema, Java)",245333.33,184000.0,3.0,13.0
+4816,Data Quality Assurance Coordinator (Hybrid Eligible),,,3.0,29.0
+4850,"Sr. Full Stack .NET Developer, contract",96.5,80.0,51.0,147.0
+4866,Project Software Engineer,,,,12.0
+4884,UiPath Developer,,,44.0,118.0
+4895,Senior Data Scientist,,,38.0,184.0
+4934,Senior Data Scientist,,,6.0,23.0
+4954,Frontend Web Developer (Machine Learning),82.0,77.0,223.0,472.0
+4955,Data Engineer,,,135.0,213.0
+4971,Software Engineer,52.5,47.0,20.0,68.0
+5035,Software Engineer,,,35.0,94.0
+5061,Senior Clinical Data Manager,,,3.0,10.0
+5122,Software Engineer,,,86.0,205.0
+5124,Software Engineer | Boston | On Site ,,,21.0,81.0
+5173,Business Developer Leader,200000.0,150000.0,7.0,22.0
+5179,Scala Developer,,,3.0,19.0
+5196,"Java Full Stack Developer - McLean, VA (Only On W2)",,,2.0,49.0
+5213,Lead Mobile Developer - Xamarin / MAUI ,,,11.0,55.0
+5217,Software Engineer (SE-2301),166420.0,136760.0,16.0,64.0
+5221,Ruby on Rails Developer,175000.0,150000.0,40.0,153.0
+5228,Senior Lead Data Scientist,,,29.0,163.0
+5257,Data Center Technical Operations Engineer I,,,1.0,17.0
+5262,Tanzu Developer,,,1.0,18.0
+5302,Datacenter Operations Agent,,,,9.0
+5348,Senior Data Engineer,,,2.0,20.0
+5350,Senior Data Engineer,,,11.0,42.0
+5365,Senior Marketing Data Analyst,,,23.0,104.0
+5409,Principal Software Developer,,,5.0,21.0
+5414,Senior Data Engineer,,,6.0,42.0
+5449,Software Engineer,50.0,35.0,,174.0
+5499,Mainframe Developer,60.0,55.0,55.0,152.0
+5519,Senior React Developer,,,13.0,25.0
+5525,"Senior Software Development Engineer, Identity & Access Management",,,2.0,26.0
+5548,Sr. Software Development Engineer - WholeFood Digital Tech,261500.0,134500.0,2.0,16.0
+5607,"Software Development Engineer, Global Mile - XBPS",223600.0,115000.0,14.0,115.0
+5657,Senior Product Developer,135000.0,100000.0,1.0,14.0
+5670,Software Engineer ,,,44.0,123.0
+5679,Senior Frontend Developer,,,19.0,29.0
+5712,Senior C++ Software Engineer,135000.0,110000.0,,23.0
+5751,Senior Software Engineer,,,8.0,91.0
+5753,C#/.NET Developer,60.0,50.0,16.0,35.0
+5762,UI/UX Developer,,,51.0,105.0
+5790,Software Engineer,450000.0,300000.0,21.0,56.0
+5799,Web Developer,130000.0,115000.0,91.0,232.0
+5800,Entry Level Software Sales Executive,85000.0,60000.0,1.0,4.0
+5803,Data Entry Specialist,,,13.0,47.0
+5813,Web Developer,110000.0,90000.0,25.0,57.0
+5826,Senior Database Administrator (DBA),,,14.0,68.0
+5844,Data Engineer,,,56.0,120.0
+5851,Lead Software Engineer - Vulnerability Assessment,112000.0,91000.0,4.0,21.0
+5853,Full Stack Software Engineer (Java),125000.0,100000.0,71.0,280.0
+5855,C++ Developer/Platform Engineer,150000.0,140000.0,16.0,84.0
+5876,Senior Software Avionics Engineer,,,2.0,5.0
+5879,"Program Manager for global computer software company in Redmond, WA",50.0,45.0,9.0,23.0
+5887,Data Collection  -  Supplementary Income,,,,6.0
+5890,Software Engineer/Website Developer,,,10.0,14.0
+5896,Web Developer,,,54.0,117.0
+5904,"Data Center Civil Engineer, Data Center Design Engineering",,,,9.0
+5920,Software Engineer V-Full Stack (Strong Front-End),160000.0,130000.0,,2.0
+5922,BI Developer,80.0,70.0,68.0,131.0
+5930,ServiceNow Architect / ServiceNow Process Architect / ServiceNow Developer,,,8.0,15.0
+5937,Python Developer,80.0,80.0,14.0,43.0
+5938,Lead Data Engineer,,,11.0,38.0
+5955,Staff JIRA Developer,,,5.0,15.0
+5986,Data Entry Specialist,20.0,20.0,10.0,35.0
+5992,Data Collection  -  Supplementary Income,,,1.0,5.0
+5993,Senior Data Engineer (Public Sector),135000.0,108000.0,1.0,14.0
+6027,Senior Node.JS Developer,,,11.0,30.0
+6037,Software Engineering Supervisor,150.0,120.0,5.0,30.0
+6039,Salesforce Developer,,,24.0,50.0
+6107,Data Collection  -  Supplementary Income,,,,3.0
+6110,Data Analyst,,,53.0,126.0
+6144,Senior Software Engineer,,,24.0,75.0
+6171,Quantitative Developer,1300000.0,800000.0,14.0,49.0
+6175,Product Data Analyst,157000.0,108000.0,157.0,297.0
+6196,Software Engineer,,,16.0,80.0
+6197,Software Engineer (PERN Stack),160000.0,140000.0,1.0,7.0
+6207,Software Engineer,,,17.0,40.0
+6209,Scientific Programmer/Data Calibration Engineer,118000.0,90000.0,,20.0
+6215,Embedded Software Engineer,170000.0,140000.0,,
+6250,Junior Web Developer,80000.0,70000.0,15.0,52.0
+6266,"Product Manager II, Developer Experience",,,,
+6280,Client-facing Shopify & WordPress Developer & Project Manager,,,13.0,39.0
+6281,Lead Software Avionics Engineer,,,1.0,3.0
+6282,Senior Software Engineer,80.0,70.0,23.0,80.0
+6284,Informatica Developer,,,7.0,24.0
+6316,10627 – Software Engineer II (Heroku Architect) ,114103.0,79800.0,4.0,35.0
+6337,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6360,Software Developer Midlevel,,,15.0,55.0
+6361,Senior Software Verification and Test Engineer,,,3.0,16.0
+6376,Account Development Executive - Automotive Software,,,1.0,6.0
+6380,Data Specialist,24.47,24.47,6.0,26.0
+6383,Enterprise Data Specialist,75000.0,55000.0,6.0,21.0
+6431,MID-LEVEL MS D365 F&O SOFTWARE ENGINEER (U.S. REMOTE),140000.0,110000.0,1.0,14.0
+6448,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6449,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6450,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6498,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6534,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6535,"Product Manager II, Developer Experience",206000.0,175100.0,,
+6565,Enterprise Systems Integration Developer,73.0,70.0,,
+6568,"Product Manager II, Developer Experience",,,,
+6575,Open Architecture Principal Software Systems Engineer,179900.0,162100.0,,4.0
+6587,Power BI Developer,,,,4.0
+6619,Staff Data Engineer,,,,
+6643,Software Tester/QA: II (Intermediate),,,,
+6657,Cyber Support Developer - 4 Days Remote,170000.0,150000.0,,
+6671,Remote Data Entry Clerk,25.2,18.0,1.0,2.0
+6676,Senior React Software Engineer,,,,
+6697,Senior Java Developer - REMOTE,,,,
+6703,Data Analytics Solutions Engineer,,,,
+6730,Software Engineer,,,,
+6766,SharePoint Developer - Long-term Opportunity,140000.0,125000.0,,
+6768,REMOTE Senior/ Lead Salesforce Developer,,,,
+6824,Senior Dotnet Developer,,,,
+6827,Software Engineer,,,,
+6851,Lead Data Architect,,,,1.0
+6891,.NET Full Stack Software Engineer III,,,,
+6923,Snowflake Developer - REMOTE,,,,
+6931,Senior NodeJS Developer,140000.0,125000.0,,
+6937,CAD Software Specialist,,,,
+6969,Senior Clinical Data Coordinator - C,,,,
+6996,Applications Developer,,,,
+7011,"Software Engineer III- Java, AWS",180000.0,128250.0,,
+7045,Data Ops Support Engineer,,,,2.0
+7071,Sr. Software Engineer,,,,
+7078,Java Software Engineer II,145000.0,109250.0,,
+7082,Software Engineer Dev Ops,,,,
+7099,Natural Language Processing (NLP) Data Scientist.,,,,
+7103,RPA/Automation Developer,151000.0,81000.0,,
+7133,RPA/Automation Developer,151000.0,81000.0,,
+7138,Software Engineer III - ETL,,,,
+7149,Business Intelligence Developer,48.0,40.0,,1.0
+7165,"AIML - Senior Data Infrastructure Software Engineer, Machine Learning Platform and Technology",364100.0,199800.0,,
+7197,Software Platform UI Frameworks Screener - Apple Vision Pro,241500.0,132300.0,,
+7216,Remote Data Entry Clerk,25.2,18.0,,
+7242,Data Engineer,,,,
+7243,Web Developer,,,,3.0
+7248,Part-Time Marketing/Data Entry Specialist,20.0,17.0,,
+7275,Android Developer,,,1.0,4.0
+7282,Python or Groovy developer with strong Devops experience,,,,
+7312,Lead Full Stack Developer,,,,1.0
+7313,New Business Developer,100000.0,80000.0,,5.0
+7367,Lead NetSuite Developer,,,,1.0
+7370,Web Developer,,,2.0,10.0
+7388,Loan Data Quality Specialist ,,,,2.0
+7396,"Senior Software Engineer, Rendering (C++)",,,,
+7403,Lead Software Engineer,,,,
+7407,Salesforce Marketing Cloud Developer,,,,
+7513,React developer (C3#.net experience) on W2,,,,171.0
+7525,MERN Sack Developer,,,13.0,29.0
+7537,Salesforce DEVELOPER,,,50.0,156.0
+7542,Software Engineer,,,78.0,376.0
+7547,Senior Dotnet Developer,,,51.0,91.0
+7554,RAID Data Recovery Administrator,,,33.0,149.0
+7555,Manager Data Analytics,,,51.0,130.0
+7560,Sharepoint Developer,,,,47.0
+7562,Software Engineer in Test,,,51.0,105.0
+7566,Denodo Software Developer,,,,101.0
+7597,Java Full Stack Developer,,,,59.0
+7599,Data Scientist,,,37.0,82.0
+7611,Environmental Engineer & Data Scientist,,,67.0,272.0
+7618,Data Engineer (Oracle and DataStage).,,,,101.0
+7632,UI Angular Developer,,,109.0,209.0
+7683,Application Software Developer lll (Hybrid),145000.0,86000.0,,27.0
+7703,Data Analyst III,,,34.0,84.0
+7711,"Channel Director, GFI Software (Remote) - $200,000/year USD",,,8.0,41.0
+7748,Data/Reporting Analyst,,,59.0,241.0
+7751,"Executive Director, Head of Clinical Data Management",345290.0,266815.0,14.0,156.0
+7764,"Director Data Science, Trilogy (Remote) - $400,000/year USD",,,11.0,93.0
+7852,Staff Data Engineer and Team Lead,,,7.0,53.0
+7873,Database Administrator II (MSDA),131500.0,87700.0,55.0,214.0
+7884,Staff Data Engineer and Team Lead,,,6.0,41.0
+7898,"AI Developer, Trilogy (Remote) - $200,000/year USD",,,10.0,45.0
+7928,Staff Data Engineer and Team Lead,,,4.0,39.0
+7937,"Chief Software Architect, Trilogy (Remote) - $800,000/year USD",,,2.0,10.0
+7953,"Machine Learning Infrastructure Software Engineer, Project Tidal (6 months contract)",,,27.0,280.0
+7970,Staff Data Engineer and Team Lead,,,3.0,46.0
+7979,"AI Developer, Trilogy (Remote) - $200,000/year USD",,,27.0,129.0
+8004,"Manager, Software Engineering",,,3.0,39.0
+8044,"Software Engineer, Project Tidal (6 months contract)",,,35.0,485.0
+8045,Software Engineer II (Aspire),,,54.0,214.0
+8110,Evaluation and Data Director,137427.0,80839.0,3.0,41.0
+8116,Software Engineer Intern,,,131.0,362.0
+8135,Senior Human Resources Data Analyst (Senior Management Systems Analyst),55.44,47.57,11.0,97.0
+8149,Software Engineer III,129400.0,97800.0,11.0,102.0
+8155,"Dynamics 365 Developer, Senior Consultant",149800.0,74900.0,4.0,36.0
+8180,Senior Data Analyst - eCommerce,,,110.0,386.0
+8182,"Data Governance, Senior Consultant",,,1.0,7.0
+8206,Java Developer,115000.0,90000.0,418.0,981.0
+8225,RPA Developer - Senior Consultant,,,4.0,30.0
+8332,"Director, OBU Data Science & AI",,,3.0,14.0
+8350,Principal Cloud Software Engineer,,,3.0,49.0
+8402,Software Engineer - Automation,,,52.0,145.0
+8404,"Senior Analyst, Data Intelligence",,,51.0,149.0
+8439,Sr Business Systems Database Software Engineer,,,1.0,40.0
+8473,SAP S/4HANA Data Design Lead – Order & Distribution to Cash,,,3.0,39.0
+8605,Oracle Database Administrator (7121),,,,100.0
+8624,"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)",,,7.0,35.0
+8633,Senior Data Scientist - Algorithms,180000.0,162000.0,117.0,514.0
+8636,"Staff Software Engineer, Edge Proxy",220100.0,176080.0,40.0,274.0
+8649,Data Masking Mainfram Analystinframe,,,2.0,62.0
+8686,Senior Software Developer (Full Stack),160000.0,130000.0,39.0,121.0
+8692,"Data Analyst, Real-Time Supply Management (Hybrid)",142000.0,128000.0,347.0,1038.0
+8811,Senior Software Engineer - Mainframe,173000.0,112000.0,25.0,73.0
+8832,"Software Engineer III, Hardware/Software Co-Design",194000.0,133000.0,2.0,53.0
+8922,"Staff Software Engineer, Infrastructure, Google Cloud Application Modernization",283000.0,185000.0,2.0,35.0
+8986,"Software Engineer III, Hardware/Software Co-Design",194000.0,133000.0,13.0,117.0
+9042,"Senior Product Manager, Data Products",150000.0,120000.0,54.0,293.0
+9055,"Staff Software Engineer, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,2.0,33.0
+9068,Data Architect (Visualization),,,6.0,22.0
+9115,"Staff Software Engineer, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,2.0,44.0
+9116,"Staff Software Engineer, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,2.0,34.0
+9117,"Staff Software Engineer, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,1.0,31.0
+9135,Software and Systems Engineer,186000.0,81800.0,4.0,17.0
+9138,Data Scientist,166000.0,73100.0,8.0,47.0
+9163,Data Architect,,,1.0,8.0
+9189,"Software Engineer III, Hardware/Software Co-Design",194000.0,133000.0,2.0,46.0
+9216,Data Scientist,,,43.0,248.0
+9223,Dynamics 365 Developer,186000.0,81800.0,,67.0
+9257,Senior Software Engineer,173000.0,112000.0,16.0,78.0
+9281,Footwear Developer II,,,14.0,101.0
+9299,Data Integration Specialist,,,8.0,43.0
+9304,Web Content Developer,128500.0,80300.0,19.0,139.0
+9305,"Staff Software Engineer, Infrastructure, Google Cloud Security and Privacy",283000.0,185000.0,1.0,25.0
+9319,"Director, Data Strategy, Retail and Commerce",224000.0,145000.0,49.0,330.0
+9320,"Director, Data Strategy, Retail and Commerce",,,26.0,162.0
+9330,Data Scientist,166000.0,73100.0,4.0,49.0
+9342,Clinical Data Coordinator I,80000.0,60000.0,,36.0
+9380,Data Scientist,166000.0,73000.0,7.0,59.0
+9394,Clinical Data Monitor I,80000.0,70000.0,,15.0
+9395,Clinical Data Monitor I,80000.0,70000.0,,50.0
+9397,Clinical Data Monitor I,80000.0,70000.0,,13.0
+9412,"Engineer IV, Software Integrations",170976.0,98640.0,1.0,10.0
+9413,"Engineer IV, Software Integrations",170976.0,98640.0,,10.0
+9414,"Engineer IV, Software Integrations",170976.0,98640.0,,14.0
+9415,"Engineer IV, Software Integrations",170976.0,98640.0,,7.0
+9446,Clinical Data Monitor I,80000.0,70000.0,,25.0
+9447,Clinical Data Monitor I,80000.0,70000.0,,11.0
+9495,Clinical Data Monitor I,80000.0,70000.0,,27.0
+9497,Clinical Data Monitor I,80000.0,70000.0,,79.0
+9498,Ground Software Engineer II,,,18.0,78.0
+9515,"Engineer IV, Software Integrations",170976.0,98640.0,3.0,10.0
+9516,"Engineer IV, Software Integrations",170976.0,98640.0,,10.0
+9562,Transportation Data Quality Assurance Analyst,177336.0,107520.0,22.0,82.0
+9568,Software Engineer (Electrical Power Systems Software Engineer) (multiple position),140760.0,127400.0,21.0,95.0
+9571,"Engineer IV, Software Integrations",170976.0,98640.0,2.0,12.0
+9578,Senior Data Analyst,130300.0,88700.0,93.0,197.0
+9581,Analytics Data Solutions Architect - Streaming,,,,31.0
+9592,Clinical Data Coordinator I,80000.0,60000.0,,120.0
+9594,Software Engineer - Content Systems,139700.0,114000.0,318.0,1284.0
+9614,"Engineer IV, Software Integrations",170976.0,98640.0,1.0,10.0
+9615,"Engineer IV, Software Integrations",170976.0,98640.0,,7.0
+9622,Supply Chain Data Analyst,,,62.0,260.0
+9633,Software Engineering Intern,,,358.0,1129.0
+9641,Clinical Data Monitor I,80000.0,70000.0,,23.0
+9642,Clinical Data Monitor I,80000.0,70000.0,,9.0
+9660,"Engineer IV, Software Integrations",170976.0,98640.0,,11.0
+9683,Data Center Lab Technician Tier 2,104000.0,90000.0,4.0,35.0
+9684,Data Center Logistics Associate L1,,,,5.0
+9693,Implementation Data Engineer,101000.0,88800.0,74.0,276.0
+9695,"Engineer IV, Software Integrations",170976.0,98640.0,,10.0
+9720,Data Center Logistics Team Lead,,,2.0,11.0
+9757,Data Center Logistics Associate L1,,,,7.0
+9758,Data Center Service Site Support L2,,,1.0,10.0
+9764,Senior Software Developer,,,10.0,39.0
+9785,Data Center Logistics Associate L1,,,,4.0
+9810,Data Center Technician IC1,,,2.0,16.0
+9812,Data Center Logistics Associate L1,,,,4.0
+9821,Sr. Developer - Boomi,,,26.0,151.0
+9825,Data Center Logistics Associate L3,,,1.0,13.0
+9828,Data Center Technician IC1,,,,14.0
+9829,Data Center Technical Lead,,,1.0,5.0
+9838,Data Center Logistics Associate L3,,,,2.0
+9858,Frontend Developer,35.0,15.0,55.0,240.0
+9863,Big Data Software Engineer W2 ONLY,,,6.0,20.0
+9961,Datacenter Analyst,28.0,26.0,1.0,9.0
+10005,Java Applications Developer,,,61.0,117.0
+10038,Epic BI Developer,,,13.0,44.0
+10051,Bigdata/Scala Lead ,,,5.0,25.0
+10062,Genesys Software Engineer - Nationwide,126400.0,88500.0,1.0,22.0
+10063,Dotnet Developer,,,54.0,141.0
+10098,Field Technician (Ground Truth Data),50000.0,46000.0,2.0,26.0
+10103,Node.js Developer,,,192.0,436.0
+10137,Senior ETL Developer,,,32.0,96.0
+10145,Java Full Stack Developer,,,24.0,64.0
+10167,Senior Applications Developer,238508.0,157477.0,4.0,29.0
+10172,Vulnerability Data Analyst,,,45.0,183.0
+10181,C++ Developer with VC++ & OCI,,,3.0,10.0
+10230,Denodo Developer,,,4.0,49.0
+10253,Full stack Developer (.NET),,,48.0,109.0
+10255,Senior Data Engineer,,,,156.0
+10278,Saviynt Developer,,,,34.0
+10303,Dotnet Developer,,,134.0,247.0
+10306,Genesys Software Engineer - Nationwide,126400.0,88500.0,4.0,36.0
+10312,Data Tech Lead,,,1.0,10.0
+10321,AEM Developer,,,4.0,26.0
+10351,Data Privacy analyst (NOT ATTORNEY) with 1-3 years of experience ONLY not a BI/technical role please no data architects/developers,,,49.0,234.0
+10381,Foundation Database Coordinator UPH System,,,1.0,6.0
+10396,Senior Data Scientist,220000.0,146000.0,34.0,258.0
+10416,"Cloud Customer Engineer, Data Management, Google Cloud",177000.0,118000.0,1.0,24.0
+10418,Senior Data Scientist,220000.0,146000.0,43.0,224.0
+10419,Senior Data Scientist,220000.0,146000.0,46.0,279.0
+10425,"Data Center Technician, Global Server Operations, Machine Learning",105000.0,63000.0,,9.0
+10438,Senior Data Scientist,220000.0,146000.0,22.0,180.0
+10463,Software Engineer (PHP),,,82.0,262.0
+10467,Senior Data Scientist,220000.0,146000.0,33.0,219.0
+10472,"Data Engineer, Google Nest",169000.0,115000.0,278.0,945.0
+10488,"Cloud Customer Engineer, Data Management, Google Cloud",177000.0,118000.0,,28.0
+10490,Senior Data Scientist,220000.0,146000.0,44.0,299.0
+10503,"Product Analyst Manager II, Data Science",252000.0,164000.0,12.0,88.0
+10504,"Product Analyst Manager II, Data Science",252000.0,164000.0,11.0,107.0
+10509,Data Center Technician,105000.0,63000.0,6.0,38.0
+10522,Data Center Logistics Associate L1,,,,4.0
+10529,"Cloud Customer Engineer, Data Management, Google Cloud",177000.0,118000.0,2.0,40.0
+10530,Senior Data Scientist,220000.0,146000.0,27.0,256.0
+10561,"Full-Stack Software Engineer - Python, React (Any US COE location, Austin, TX | Irving, TX | Ft Myers, FL)",,,13.0,45.0
+10588,"Senior Software Engineer, AR",235000.0,157000.0,11.0,141.0
+10590,"Senior Software Engineer, AR",235000.0,157000.0,6.0,81.0
+10591,"Product Analyst Manager II, Data Science",252000.0,164000.0,23.0,188.0
+10608,"Software Engineering Manager II, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,9.0,55.0
+10621,BI Developer,,,13.0,32.0
+10651,Senior Data Scientist,220000.0,146000.0,19.0,162.0
+10669,"Product Analyst Manager II, Data Science",252000.0,164000.0,11.0,99.0
+10678,"Full-Stack Software Engineer - Python, React (Any US COE location, Austin, TX | Irving, TX | Ft Myers, FL)",,,11.0,39.0
+10688,Data Center Logistics Associate L1,,,1.0,4.0
+10690,"Software Engineer III, Mobile, Android",194000.0,133000.0,11.0,60.0
+10702,Front End Web Developer,166000.0,73100.0,25.0,77.0
+10746,"Full-Stack Software Engineer - Python, React (Any US COE location, Austin, TX | Irving, TX | Ft Myers, FL)",,,14.0,40.0
+10804,Software Architect (Mulesoft),80.0,70.0,10.0,66.0
+10841,Software as a Solution (SaaS) Manager,,,,13.0
+10849,Data Engineer,,,25.0,54.0
+10869,Software Developer,,,18.0,91.0
+10920,Lead Developer (.Net & React) - 100% Remote - Contract to Hire (W2),68.0,63.0,28.0,110.0
+10946,Data Engineer IV,170976.0,98640.0,9.0,29.0
+10971,"Data Engineer with Python AWS, ETL with 10+years exp",,,13.0,23.0
+10976,Python Developer,,,20.0,49.0
+10987,Software Engineer Manager,160000.0,150000.0,5.0,55.0
+10990,"Software Engineering Manager II, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,7.0,41.0
+10991,"Software Engineering Manager II, Google Cloud Unified Fulfillment Optimization",283000.0,185000.0,8.0,51.0
+10993,Data Scientist,177336.0,93492.0,16.0,89.0
+11007,"Software Engineer III, Mobile, Android",194000.0,133000.0,6.0,47.0
+11018,"Microsoft 365 Developer, Mid",119000.0,52100.0,,2.0
+11045,APPLICATION DEVELOPER,,,3.0,32.0
+11052,Senior Ground Software Engineer,,,1.0,10.0
+11067,JUNIOR ANDROID DEVELOPER,,,11.0,55.0
+11080,Sr. Mobile Application Developer,,,55.0,143.0
+11087,"Database and System Administrator, Senior",186000.0,81800.0,2.0,23.0
+11088,Software Engineer,186000.0,81800.0,5.0,31.0
+11106,Lead Data Engineer,,,46.0,130.0
+11148,Mobile iOS Developer,90.0,65.0,18.0,64.0
+11150,"Senior BI Publisher Developer (Power BI) (Minimum 10+ years exp mandatory, No CTC or CTH)",,,,21.0
+11156,Embedded Software Engineer,186000.0,81800.0,,9.0
+11160,Data Engineer,133000.0,58400.0,5.0,24.0
+11187,Application Developer,,,64.0,189.0
+11218,073076-Software Engineer Lead,138944.0,65200.0,1.0,6.0
+11219,Senior Embedded Flight Software Engineer,,,,10.0
+11230,"Director, Data Center Construction",,,3.0,14.0
+11232,BI Developer - Remote,71.88,38.46,55.0,154.0
+11252,Junior Project Developer,90000.0,60000.0,42.0,147.0
+11277,Software Engineer,45.0,40.0,26.0,86.0
+11285,Front End Developer,60.0,45.0,99.0,282.0
+11286,"Full Stack Software Engineer, ERP",175000.0,135000.0,,191.0
+11294,Data Entry Clerk,18.0,18.0,45.0,151.0
+11326,Data Entry Clerk IV,,,5.0,22.0
+11335,Informatica Developer - W2 ONLY,65.0,60.0,2.0,7.0
+11339,Senior Developer,109000.0,94000.0,8.0,64.0
+11340,Senior Data Engineer,,,52.0,136.0
+11362,"Full Stack .NET Developer (TX, NC, ATL, VA) - W2 ONLY, NO C2C",71.0,65.0,,21.0
+11367,UI Frontend Developer,,,98.0,195.0
+11380,"Full Stack .NET Developer (TX, NC, VA, GA) - W2 ONLY",,,2.0,19.0
+11384,Sr. Data Engineer,70.0,65.0,39.0,106.0
+11413,Financial Data Analyst (Python),,,28.0,124.0
+11523,Senior Software Engineer,,,100.0,266.0
+11596,VP Product Management - Databases,310000.0,248000.0,15.0,56.0
+11624,Database Administrator II - Columbia,,,2.0,8.0
+11627,Healthcare Data Analyst,99200.0,62000.0,19.0,91.0
+11665,Head of FI and IWMS Data Management,,,,2.0
+11699,Principal Data Quality Engineer,,,1.0,2.0
+11723,Metadata Administrator,,,,4.0
+11759,Senior Data Scientist,,,9.0,39.0
+11781,Senior Software Engineer (Guardium),,,,1.0
+11786,Principal Data Quality Engineer,,,,3.0
+11805,Senior Software Engineer - Power Platform,120000.0,96000.0,,1.0
+11837,"REMOTE Systems Software Architect - Rust, C/C++",225000.0,175000.0,,9.0
+11848,Principal Data Quality Engineer,,,,2.0
+11900,Sr. Java Developer,,,1.0,6.0
+11918,Senior Software Engineer - Power Platform,120000.0,96000.0,,2.0
+11935,Front-End Application Developer III (Multiple Positions Available),188310.0,183310.0,10.0,26.0
+11936,Analytics Developer II Remote,111966.0,64064.0,6.0,28.0
+11997,"President, Platforms and Software Engineering",690000.0,510000.0,,8.0
+12017,Front-End Application Developer III (Multiple Positions Available),188310.0,183310.0,4.0,32.0
+12041,Software Engineer,125000.0,106000.0,84.0,213.0
+12043,"REMOTE Systems Software Architect - Rust, C/C++",225000.0,175000.0,3.0,14.0
+12044,Front-End Application Developer III (Multiple Positions Available),188310.0,183310.0,2.0,10.0
+12066,"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",,,45.0,112.0
+12145,"Data Center Facilities Technician, Controls",110000.0,77000.0,2.0,9.0
+12170,"Software Engineer III, Full Stack, Google Cloud Application Modernization",194000.0,133000.0,13.0,77.0
+12171,"Software Engineer III, Full Stack, Google Cloud Application Modernization",194000.0,133000.0,10.0,30.0
+12181,"Director, Data Center Design",,,1.0,16.0
+12189,Senior Software Engineer Infrastructure System Lab,280000.0,187000.0,,13.0
+12197,Senior Data Warehouse Developer,135000.0,95000.0,,
+12275,"Software Engineer, Global Payment",205000.0,136800.0,25.0,66.0
+12291,Software Developer,,,1.0,7.0
+12311,Sr .Net Developer,,,,
+12366,Java Software Engineer,,,,
+12382,Senior Staff Software Engineer- Cribl Edge,243200.0,125900.0,,
+12407,Specialist - Software Engineering,,,,1.0
+12625,Data Manager,,,1.0,5.0
+12644,Full-Stack Software Engineer,203100.0,106400.0,1.0,1.0
+12662,Senior Full-Stack Software Engineer,222200.0,116400.0,,
+12679,Solutions Architect - Data Center Solutions,,,12.0,84.0
+12698,CASTL Wage Data Collector,22.0,18.0,4.0,49.0
+12743,Eligibility Data Analyst # 3219,104000.0,88000.0,104.0,301.0
+12757,Cloud/Data Architect,,,1.0,19.0
+12899,Software Developer / Cloud Engineer,,,105.0,332.0
+12920,BI Developer,,,,345.0
+12930,Database Management Analyst(Secret Clearance Required),,,,44.0
+12952,Senior Software Engineer (Oracle Cloud Team),155000.0,135000.0,8.0,154.0
+12965,Full-Stack Web Developer,120000.0,60000.0,74.0,199.0
+12973,Master Data Analyst ,81979.0,54653.0,112.0,174.0
+12980,Terraform Developer,,,20.0,91.0
+12999,Platform Cloud and Data Infrastructure Architect (Cyber Security) (Remote),314200.0,211600.0,17.0,95.0
+13027,Snowflake Developer,,,20.0,89.0
+13029,Angular Software Engineer,70.0,70.0,293.0,620.0
+13071,FPGA Software Engineer,250000.0,150000.0,34.0,105.0
+13077,Senior Data Manager,,,,17.0
+13080,Database Engineer,,,245.0,559.0
+13086,Exadata Consultant/ Admin,,,,26.0
+13110,Talend Developer/Admin,,,,20.0
+13113,Software Architect,140000.0,90000.0,2.0,60.0
+13114,Java App Developer with AWS/Lead,,,,280.0
+13132,"Java Full Stack Developer - McLean, VA (Only On W2)",,,,134.0
+13167,Software Engineer 3,,,71.0,176.0
+13168,"Director Data Architect (20+ years relevant exp mandatory , No CTC or CTH)",,,,76.0
+13182,Dotnet Developer,,,,233.0
+13205,Lead Software Engineer-Monument.io,,,84.0,227.0
+13211,Informatica Developer,,,,173.0
+13216,React Native Developer,,,,294.0
+13218,Data Engineer,,,,516.0
+13231,Data Optimization Analyst,40.09,31.99,102.0,237.0
+13259,Sr. Power BI Developer (PowerApps),,,,53.0
+13275,Oracle Database Administrator,,,,97.0
+13283,Data Center Technician/ HVAC Technician,34.0,33.0,,19.0
+13310,Marketing Insights and Data Analytics Manager,135000.0,100000.0,13.0,121.0
+13337,Vice President of Software Engineering,,,36.0,94.0
+13339,Data Entry Specialist,,,,16.0
+13349,SAP Data Product Manager With Scrum,,,,68.0
+13376,Integration Informatica Lead Data Architect with Healthcare/Pharma Background,,,50.0,186.0
+13379,Credit Data Analyst II,95000.0,85000.0,149.0,244.0
+13386,"Full Stack .NET Developer - Evanston, IL (Hybrid)",,,161.0,449.0
+13395,Senior Software Developer,140000.0,120000.0,101.0,269.0
+13413,Dotnet Developer,,,68.0,201.0
+13428,BI SQL Developer,,,,284.0
+13441,ONSITE Miami - Sr Salesforce Developer ,,,45.0,125.0
+13447,Senior Java Software Engineer | Remote,,,76.0,248.0
+13492,ISU Data Conversion Lead ,,,8.0,68.0
+13494,Hogan Developer ,,,,28.0
+13502,GCP Data lead/Architect,,,21.0,72.0
+13515,Software Data Engineer (Scala/Python),,,116.0,275.0
+13530,Software Engineer,,,51.0,125.0
+13532,Senior .NET Developer,175000.0,140000.0,143.0,380.0
+13556,CAN Data Log Engineer,,,3.0,75.0
+13569,Power BI Developer,,,,22.0
+13582,"Senior Manager, Data Architecture and Data Engineering    ",,,22.0,23.0
+13602,Azure Data Engineer,70.0,60.0,386.0,906.0
+13622, Cloud/Data Architect,,,19.0,92.0
+13637,Salesforce Developer,,,109.0,262.0
+13642,Cobol Developer,,,,47.0
+13653,Software Engineering Sr Manager/Director/Senior Director,305600.0,188200.0,203.0,847.0
+13662,Full Stack Developer,,,,411.0
+13669,100% Remote _ Azure Data Architect  _ Immediate Interview !!!,,,,263.0
+13671,Java Developer,,,199.0,568.0
+13702,"Engineering Manager, Software Engineering",258700.0,133400.0,263.0,1129.0
+13713,Data Integration Engineer- REMOTE,65.0,35.0,217.0,630.0
+13716,Web Application Developer Intern (Unpaid),,,51.0,263.0
+13722,"Database Architect - On-Site - ATL, GA",,,,23.0
+13761,Data Analyst - Remote / Contract,95.0,60.0,300.0,1138.0
+13807,JAVA Full Stack Developer - REMOTE - REQUIRES TS/SCI CLEARANCE,,,40.0,89.0
+13823,Data Engineer,,,,362.0
+13828,Lead Dotnet Developer,,,,225.0
+13910,Senior Java Developer,,,118.0,253.0
+13928,Compliance Solution Developer Analyst,,,,60.0
+13933,ForgeRock Developer,,,9.0,84.0
+13953,Sr. AEM Developer,,,59.0,267.0
+13988,Dotnet Developer,,,,49.0
+13997,SAP BODS Developer  ,,,23.0,86.0
+14016,Application Developer (.Net/C#),67.0,60.0,89.0,211.0
+14025,New Grad - Data Analyst II,82000.0,57400.0,368.0,822.0
+14029,Senior Software Development Engineer in Test,125800.0,60300.0,,21.0
+14031,Calypso Developer,,,3.0,30.0
+14060,Sr Software Engineer,,,5.0,58.0
+14076,Data Engineer,,,77.0,316.0
+14084,Senior Software Development Engineer in Test,125800.0,60300.0,1.0,18.0
+14097,Content Developer,,,,75.0
+14109,Data Science & AI - ML Internship,,,188.0,566.0
+14126,Embedded Developer,,,14.0,118.0
+14134,"Data, Evaluation and Impact, Associate",,,51.0,182.0
+14151,Senior Frontend Developer,,,153.0,329.0
+14152,Senior CNO Developer,250000.0,125000.0,1.0,12.0
+14167,Senior Software Development Engineer in Test,125800.0,60300.0,4.0,30.0
+14176,Full Stack Software Developer (React & Redux) - 100% Remote,60.0,50.0,,1030.0
+14178,IT Software Procurement Specialist,,,1.0,19.0
+14186,VC++ Developer,,,1.0,22.0
+14191,Senior Java Software Engineer,,,51.0,147.0
+14194,Content Developer,,,,561.0
+14203,Software Engineer,168000.0,90400.0,45.0,214.0
+14209,"RPA Developer, Business Operations & Data Analytics",125000.0,105000.0,77.0,196.0
+14215,MS Azure Application Developer,,,,131.0
+14217,ForgeRock Developer,,,9.0,93.0
+14222,Data Engineer (W2 ONLY),,,,249.0
+14223,Software Engineer - Database Engineering (San Mateo),218500.0,150000.0,145.0,507.0
+14265,Sharepoint Developer,,,,35.0
+14288,UI/UX Developer,60.0,55.0,,152.0
+14289,Lead Software Engineer - Cloud (Remote),167880.0,111920.0,23.0,254.0
+14295,ForgeRock Developer,,,,25.0
+14301,PLM Teamcenter Developer with ITAR,,,,71.0
+14312,Senior Software Development Engineer in Test,125800.0,60300.0,3.0,14.0
+14314,Senior Software Development Engineer in Test,125800.0,60300.0,1.0,22.0
+14335,SSIS Developer (Remote-Hybrid),60.0,55.0,55.0,184.0
+14378,Mulesoft Developer with API,,,,43.0
+14394,Cloud/Data Architect,,,12.0,60.0
+14399,Senior Software Development Engineer in Test,125800.0,60300.0,6.0,24.0
+14401,Azure Developer,,,12.0,111.0
+14420,Oracle/ETL Developer- ONLY W2,,,,216.0
+14421,PowerApps Developer ,,,,138.0
+14425,SSIS Developer,50.0,45.0,,95.0
+14477,Software Engineer - Database Engineering (Seattle),218500.0,150000.0,198.0,790.0
+14487,Senior Software Development Engineer in Test,125800.0,60300.0,,17.0
+14498,Sr Software Engineer - Energy Optimization (Remote),,,28.0,178.0
+14538,CLASS Data Assessor,,,7.0,28.0
+14549,Senior Software Engineer,,,22.0,159.0
+14550,Senior Software Engineer,,,34.0,187.0
+14552,Senior Data Scientist,,,136.0,305.0
+14554,Senior Data Analyst (Onsite),,,195.0,365.0
+14601,GIS Data Architect,,,,22.0
+14602,Call Center Data Entry Specialist,17.0,16.0,,408.0
+14639,Pricing Data Analyst,,,57.0,195.0
+14678,Software Engineer II,130000.0,100000.0,,711.0
+14679,Staff Data Engineer,180000.0,145000.0,,100.0
+14680,CLASS Data Assessor,,,4.0,30.0
+14690,Data Entry/Office Clerk,,,17.0,129.0
+14698,Senior Software Engineer,,,14.0,115.0
+14717,"Associate Software Engineer (Python, API, Serverless)",90000.0,60000.0,265.0,1006.0
+14749,Senior SQL Developer,,,157.0,306.0
+14751,CLASS Data Assessor,,,5.0,17.0
+14752,Healthcare Business Data Leader,195000.0,105000.0,84.0,375.0
+14770,Database Engineer,,,21.0,136.0
+14819,CLASS Data Assessor,,,5.0,26.0
+14837,Edifecs Developer,,,15.0,127.0
+14845,Data Analyst ,74.0,68.0,208.0,514.0
+14846,Lead Senior Web Developer (2824),,,4.0,37.0
+14864,Senior Developer,60.0,55.0,144.0,531.0
+14879,Software Engineer,145000.0,105000.0,96.0,452.0
+14951,Java Developer - W2 ONLY,,,,51.0
+14954,Data Engineer II - NBC Sports Next,,,92.0,301.0
+14957,Business Analyst/Data Remediation,40.0,35.0,71.0,214.0
+14972,CLASS Data Assessor,,,7.0,24.0
+14985,Mulesoft Developer - Onsite in Plano TX - No C2C,70.0,65.0,9.0,133.0
+15025,Senior Data Engineer,180000.0,160000.0,76.0,176.0
+15034,Data Engineer,,,86.0,419.0
+15036,Kernel Developer ,,,2.0,36.0
+15048,Senior Clinical Data Manager,,,108.0,323.0
+15067,Guidewire Billing Center Developer,,,,3.0
+15095,Frontend Developer,190000.0,130000.0,,178.0
+15102,Principal Software Engineer - Cloud Data Center,,,15.0,137.0
+15126, Programmer/Developer,,,38.0,177.0
+15136,Master Data Specialist,70.0,60.0,7.0,66.0
+15164,Java Developer ,,,,364.0
+15169,Director Data Architect ,,,,93.0
+15176,Senior Software Engineer - Cloud Data Center,,,16.0,165.0
+15183,Java Developer with Payment,,,,257.0
+15251,RCM Data Analyst,87000.0,45594.0,66.0,146.0
+15281,Software Engineering Lead,109000.0,73000.0,4.0,25.0
+15283,.NET Developer Production Support,126000.0,84000.0,37.0,151.0
+15369,Senior Software Engineer -Backend,200000.0,136000.0,25.0,132.0
+15370,Senior Software Engineer,95000.0,63000.0,9.0,54.0
+15434,Sr Integration Developer - Temporary Full Time,90.0,80.0,,15.0
+15460,Senior Associate Software Engineer,,,38.0,117.0
+15504,Wordpress Designer / Developer,44.0,40.0,36.0,152.0
+15515,Web Developer,,,,1380.0
+15530,Quantitative Prop Trading Firm | Senior Software Engineer,700000.0,300000.0,,107.0
+15547,Frontend Developer,,,,1115.0
+15553,Senior Data Architect,,,17.0,50.0
+15555,Sr. Actimize Developer - Fraud Development  (IFM/IFM-x),,,10.0,83.0
+15556,Software Engineer Graduate (TikTok Short Video) - 2024 Start (BS/MS/PhD),139650.0,104500.0,29.0,157.0
+15558,Senior Software Engineer,205000.0,175000.0,7.0,68.0
+15570,Javascript Developer,,,,598.0
+15571,Clinical Application Specialist - US Market - Software Medical Device - Neurovascular,,,20.0,227.0
+15581,Legal Student Employee - Operations & Data Analyst,,,,18.0
+15594,Lead Data Management Services Analyst (Hybrid - Flexible Options),,,8.0,34.0
+15608,Software Engineer,,,,245.0
+15620,Staff Software Engineer,240000.0,210000.0,50.0,357.0
+15635,"Software Engineer, Machine Learning - Reality Labs",241000.0,172994.0,12.0,236.0
+15640,Data Scientist / Operations Research Analyst,160000.0,100000.0,41.0,215.0
+15641,Fintech Startup | Tech Lead Manager - Software Engineer,1100000.0,500000.0,,368.0
+15688,RIS Senior Software Engineer,,,4.0,33.0
+15755,"Software Engineer, Machine Learning - Reality Labs",241000.0,172994.0,7.0,181.0
+15772,Data Engineering Product Lead (Hybrid),304500.0,193440.0,7.0,22.0
+15788,Netsuite Developer Administrator - Remote,,,4.0,33.0
+15792,Senior Software Engineer,,,,389.0
+15813,OCM Data Analyst (Remote),88000.0,85000.0,47.0,165.0
+15836,Senior Supply Chain Data Analyst,108000.0,76000.0,21.0,122.0
+15877,"An, Database Developer",,,15.0,76.0
